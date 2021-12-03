@@ -35,25 +35,25 @@ h6 {
   line-height: 1.25;
   color: var(--title-color);
 }
-h2 {
+h1 {
   font-size: 1.5rem;
   margin-bottom: 0.5rem;
   margin-top: 1.15rem;
 }
-h3 {
+h2 {
   font-size: 1.35rem;
   margin-bottom: 0.666666666666667rem;
   margin-top: 1.333333333333333rem;
 }
-h4 {
+h3 {
   font-size: 1.15rem;
   margin-bottom: 0.8rem;
 }
-h5 {
+h4 {
   font-size: 1rem;
   margin-bottom: 0.888rem;
 }
-h6 {
+h5 {
   font-size: 0.875rem;
   color: var(--text-strong-color);
 }
@@ -485,7 +485,7 @@ pre[class*='highlight'] {
   background-color: #3273dc;
   border-color: transparent;
   color: #fff;
-  border-radius: 290486px;
+  border-radius: 100px;
   padding-left: 1em;
   padding-right: 1em;
   font-size: 14px;
